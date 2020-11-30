@@ -1,0 +1,21 @@
+.biorhythm-card {
+  max-width: 500px;
+  margin: 0 auto;
+  border: 1px solid #ced4da;
+  box-shadow: none;
+}
+
+.biorhythm-card ion-card-content p.text-physical {
+  color: var(--app-physical-color);
+  font-size: 18px;
+}
+
+.biorhythm-card ion-card-content p.text-emotional {
+  color: var(--app-emotional-color);
+  font-size: 18px;
+}
+
+.biorhythm-card ion-card-content p.text-intellectual {
+  color: var(--app-intellectual-color);
+  font-size: 18px;
+}
